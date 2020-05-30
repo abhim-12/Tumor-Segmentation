@@ -6,4 +6,4 @@
     3. Dilation is performed on the image using 5x5 Structural Element.
     4. Tumor Region is highlighted with a border.
     
-    
+    ![](BrainImages/brain1.jpg)
