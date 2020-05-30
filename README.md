@@ -5,5 +5,9 @@
     2. Segmenting done using Thresholding and selecting high density areas.
     3. Dilation is performed on the image using 5x5 Structural Element.
     4. Tumor Region is highlighted with a border.
-    
-    ![](BrainImages/brain1.jpg)
+
+Input Example: <br>
+![](BrainImages/brain1.jpg)
+
+Output: <br>
+![](BrainImages/out.jpg)
